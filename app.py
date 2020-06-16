@@ -1,8 +1,3 @@
-'''
-@author: Snehan Kekre
-@source: https://github.com/Streamlit-Vehicle-Collisions-NYC
-'''
-
 import streamlit as st
 import pandas as pd
 import numpy as np
